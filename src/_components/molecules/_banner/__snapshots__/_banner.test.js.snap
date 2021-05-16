@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner testing Matches the snapshot 1`] = `
+<div
+  className="makeStyles-bannerText-1"
+>
+  <h2
+    className="makeStyles-h1-2"
+  >
+    Full Stack Web Developer
+  </h2>
+  <hr
+    className="makeStyles-hr-3"
+  />
+  <p
+    className="makeStyles-p-4"
+  >
+    HTML/CSS | Bootstrap | JavaScript | React | Spring Boot | MySQL
+  </p>
+  <div
+    className="makeStyles-socialLinks-5"
+  >
+    <a
+      href="https://in.linkedin.com/in/nishanth-badim-13326a177?trk=people-guest_people_search-card"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <div
+        className="makeStyles-i-6"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-linkedin-square"
+        />
+      </div>
+    </a>
+    <a
+      href="https://github.com/Nishanth-17"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <div
+        className="makeStyles-i-6"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-github-square"
+        />
+      </div>
+    </a>
+    <a
+      href="https://twitter.com/Nishanth_17"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <div
+        className="makeStyles-i-6"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-twitter"
+        />
+      </div>
+    </a>
+    <a
+      href="https://www.instagram.com/_nishanth_17/?hl=en"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <div
+        className="makeStyles-i-6"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-instagram"
+        />
+      </div>
+    </a>
+  </div>
+</div>
+`;

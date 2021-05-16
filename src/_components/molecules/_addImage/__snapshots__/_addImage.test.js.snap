@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Add Image box testing Matches the snapshot 1`] = `
+<div
+  className="makeStyles-addImageBox-1"
+>
+  <div
+    className="makeStyles-flexItem-3"
+  >
+    <h4
+      className="MuiTypography-root MuiTypography-h4"
+    >
+      Enter Image details
+    </h4>
+  </div>
+  <div
+    className="makeStyles-flexItem-3"
+  >
+    <div>
+      <div
+        className="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-input-5 MuiInputBase-fullWidth MuiInput-fullWidth"
+        onClick={[Function]}
+        required={true}
+      >
+        <input
+          className="MuiInputBase-input MuiInput-input"
+          onAnimationStart={[Function]}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder="Enter URL"
+          required={true}
+          type="text"
+        />
+      </div>
+    </div>
+    <p
+      className="MuiTypography-root makeStyles-error-4 MuiTypography-body1"
+    />
+  </div>
+  <div
+    className="makeStyles-flexItem-3"
+  >
+    <div>
+      <div
+        className="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-input-5 MuiInputBase-fullWidth MuiInput-fullWidth"
+        onClick={[Function]}
+        required={true}
+      >
+        <input
+          className="MuiInputBase-input MuiInput-input"
+          onAnimationStart={[Function]}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder="Enter title"
+          required={true}
+          type="text"
+        />
+      </div>
+    </div>
+    <p
+      className="MuiTypography-root makeStyles-error-4 MuiTypography-body1"
+    />
+  </div>
+  <button
+    className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-6 MuiButton-containedPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Add
+    </span>
+  </button>
+</div>
+`;

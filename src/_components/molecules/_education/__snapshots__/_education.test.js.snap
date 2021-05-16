@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Education testing Matches the snapshot 1`] = `
+<div
+  className="mdl-grid"
+>
+  <div
+    className="mdl-cell mdl-cell--4-col"
+  >
+    <p>
+       - 
+    </p>
+  </div>
+  <div
+    className="mdl-cell mdl-cell--8-col"
+  >
+    <h4
+      style={
+        Object {
+          "marginTop": "0px",
+        }
+      }
+    />
+    <p />
+  </div>
+</div>
+`;

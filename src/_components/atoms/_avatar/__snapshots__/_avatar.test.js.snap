@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match the snapshot - Avatar 1`] = `
+<img
+  alt="avatar"
+  className="makeStyles-root-1"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDXh6VSPmGsJQ8SOQP5vdAXibWEJSd1ZXUZA&usqp=CAU"
+/>
+`;

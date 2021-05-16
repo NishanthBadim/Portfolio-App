@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact component testing Matches the snapshot 1`] = `
+<div
+  className="makeStyles-root-5"
+>
+  <div
+    className="mdl-grid makeStyles-contactGrid-6"
+  >
+    <div
+      className="mdl-cell mdl-cell--8-col"
+    >
+      <h3
+        className="makeStyles-h3-7"
+      >
+        Share your details and get in touch with me.
+      </h3>
+      <hr
+        className="makeStyles-hr-8"
+      />
+      <div
+        className="contact-list"
+      >
+        <div>
+          I am mocked
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

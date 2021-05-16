@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Drawer testing Matches the snapshot 1`] = `
+<div
+  className="mdl-layout__drawer"
+>
+  <span
+    className="mdl-layout-title"
+  >
+    My Portfolio
+  </span>
+  <nav
+    className="mdl-navigation"
+  >
+    <a
+      className="mdl-navigation__link"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      className="mdl-navigation__link"
+      href="/gallery"
+      onClick={[Function]}
+    >
+      Gallery
+    </a>
+    <a
+      className="mdl-navigation__link"
+      href="/admin"
+      onClick={[Function]}
+    >
+      Admin
+    </a>
+    <a
+      className="mdl-navigation__link"
+      href="/aboutme"
+      onClick={[Function]}
+    >
+      About Me
+    </a>
+    <a
+      className="mdl-navigation__link"
+      href="/contact"
+      onClick={[Function]}
+    >
+      Contact
+    </a>
+  </nav>
+</div>
+`;

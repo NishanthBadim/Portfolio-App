@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Box testing Matches the snapshot 1`] = `
+<div>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-input-1 MuiInputBase-fullWidth MuiInput-fullWidth"
+    onClick={[Function]}
+  >
+    <input
+      className="MuiInputBase-input MuiInput-input"
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      type="text"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Label  testing Matches the snapshot 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <p
+    className="MuiTypography-root MuiTypography-body2"
+  />
+</div>
+`;

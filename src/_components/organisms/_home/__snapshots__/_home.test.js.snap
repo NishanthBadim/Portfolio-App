@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component testing Matches the snapshot 1`] = `
+<div
+  className="mdl-grid makeStyles-root-1"
+>
+  <div
+    className="mdl-cell mdl-cell--12-col"
+  >
+    <div>
+      Avatar mocked
+    </div>
+    <div>
+      Banner mocked
+    </div>
+  </div>
+</div>
+`;

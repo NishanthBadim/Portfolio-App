@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation Bar testing Matches the snapshot 1`] = `
+<header
+  className="mdl-layout__header mdl-layout__header--scroll mdl-layout__header--transparent makeStyles-head-2"
+>
+  <div
+    className="mdl-layout__header-row"
+  >
+    <span
+      className="mdl-layout-title"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "white",
+            "fontSize": "2vw",
+            "textDecoration": "none",
+          }
+        }
+      >
+        My Portfolio
+      </a>
+    </span>
+    <div
+      className="mdl-layout-spacer"
+    />
+    <nav
+      className="mdl-navigation"
+    >
+      <a
+        className="mdl-navigation__link"
+        href="/"
+        onClick={[Function]}
+      >
+        <p
+          className="MuiTypography-root makeStyles-root-1 MuiTypography-body1"
+        >
+          Home
+        </p>
+      </a>
+      <a
+        className="mdl-navigation__link"
+        href="/gallery"
+        onClick={[Function]}
+      >
+        <p
+          className="MuiTypography-root makeStyles-root-1 MuiTypography-body1"
+        >
+          Gallery
+        </p>
+      </a>
+      <a
+        className="mdl-navigation__link"
+        href="/admin"
+        onClick={[Function]}
+      >
+        <p
+          className="MuiTypography-root makeStyles-root-1 MuiTypography-body1"
+        >
+          Admin
+        </p>
+      </a>
+      <a
+        className="mdl-navigation__link"
+        href="/aboutme"
+        onClick={[Function]}
+      >
+        <p
+          className="MuiTypography-root makeStyles-root-1 MuiTypography-body1"
+        >
+          About Me
+        </p>
+      </a>
+      <a
+        className="mdl-navigation__link"
+        href="/contact"
+        onClick={[Function]}
+      >
+        <p
+          className="MuiTypography-root makeStyles-root-1 MuiTypography-body1"
+        >
+          Contact
+        </p>
+      </a>
+    </nav>
+  </div>
+</header>
+`;
